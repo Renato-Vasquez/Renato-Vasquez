@@ -41,14 +41,34 @@ Busco integrarme a un equipo donde pueda aportar en:
 
 ---
 
-## 🚀 Próximos Proyectos
+## 🚀 Proyectos en Desarrollo
 
-Actualmente estaré desarrollando proyectos relacionados con:
+Actualmente estoy desarrollando los siguientes proyectos para fortalecer mi perfil técnico:
 
-- 📊 Diseño y modelamiento de bases de datos  
-- 🌐 Desarrollo de APIs backend  
-- 📈 Análisis y visualización de datos  
-- ⚙️ Automatización de tareas  
+### 1️⃣ Sistema CRUD Backend + Base de Datos
+Desarrollo de un sistema de gestión (tareas / inventario / usuarios) con arquitectura backend y base de datos relacional.
+
+**Stack:** Python (Flask o FastAPI), MySQL, API REST  
+**Enfoque:** Modelamiento de datos, endpoints REST, buenas prácticas backend.
+
+---
+
+### 2️⃣ Proyecto de Análisis de Datos
+Trabajo con dataset público aplicando limpieza, transformación y visualización de datos.
+
+**Herramientas:** Python, Pandas, Matplotlib / Power BI  
+**Enfoque:** ETL, análisis exploratorio y conclusiones documentadas.
+
+---
+
+### 3️⃣ Mini API REST
+API con endpoints bien definidos y documentación básica.
+
+**Enfoque:**  
+- CRUD estructurado  
+- Uso correcto de HTTP status codes  
+- Buenas prácticas en diseño de API  
+
 
 ---
 
