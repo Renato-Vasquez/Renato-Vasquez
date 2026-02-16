@@ -25,10 +25,10 @@ Me caracterizo por responsabilidad, capacidad de adaptación y aprendizaje conti
 
 Busco integrarme a un equipo donde pueda aportar en:
 
-- Desarrollo backend
-- Gestión y optimización de bases de datos
-- Análisis de datos y generación de reportes
-- Automatización de procesos
+- Desarrollo backend  
+- Gestión y optimización de bases de datos  
+- Análisis de datos y generación de reportes  
+- Automatización de procesos  
 
 ---
 
@@ -54,9 +54,7 @@ Busco integrarme a un equipo donde pueda aportar en:
 ## 📊 Actividad en GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Renato-Vasquez&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Vasquez&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Renato-Vasquez&show_icons=true&count_private=true" />
 </p>
 
 ---
@@ -65,9 +63,9 @@ Busco integrarme a un equipo donde pueda aportar en:
 
 Próximamente estaré publicando proyectos relacionados con:
 
-- Diseño y modelamiento de bases de datos
-- Desarrollo de APIs backend
-- Análisis y visualización de datos
+- Diseño y modelamiento de bases de datos  
+- Desarrollo de APIs backend  
+- Análisis y visualización de datos  
 
 ---
 
